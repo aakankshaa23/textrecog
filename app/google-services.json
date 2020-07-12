@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975022597426",
+    "firebase_url": "https://entrymanagementsystem-ae818.firebaseio.com",
+    "project_id": "entrymanagementsystem-ae818",
+    "storage_bucket": "entrymanagementsystem-ae818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975022597426:android:3028211b31d864bc02e32b",
+        "android_client_info": {
+          "package_name": "com.example.entryless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975022597426-uc97v06s3v4kkm7hakver8a5lal1t3sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT56wx7AsxherqhTO-Lg0_S4gQdsJBs2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975022597426-uc97v06s3v4kkm7hakver8a5lal1t3sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
